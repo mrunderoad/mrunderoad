@@ -1,6 +1,6 @@
 ## Hello! Welcome to my GitHub, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Isaac!
 
-<img align="center" src="https://komarev.com/ghpvc/?username=mrunderoad" />   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<img align="center" src="https://komarev.com/ghpvc/?username=mrunderoad" />
  
 ---
 
