@@ -4,3 +4,4 @@
 
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=mrunderoad)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunderoad&theme=<THEME_NAME>" />
